@@ -1,0 +1,11 @@
+@font-face {
+	src: url(fonts/Oswald-VariableFont_wght.ttf);
+	font-family: oswald;
+}
+
+h1 {
+	font-family: oswald;
+}
+p {
+	font-family: 'DotGothic16', sans-serif;
+}
